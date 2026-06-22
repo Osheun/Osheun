@@ -22,18 +22,6 @@
 
 ###
 
-<h2 align="left">🗨️ Me contacter</h2>
-
-```lua
-local Osheun = {
-    email = "osheun.contact@proton.me",
-    focus = "Développement FiveM",
-    status = "Ouvert aux projets"
-}
-```
-
-###
-
 <h2 align="left">🐍 Stats</h2>
 
 <picture>
