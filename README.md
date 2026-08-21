@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left"><code>💻</code> Développeur passionné, full focus sur <b>FiveM</b> en ce moment.<br>
-  <code>🎮</code> Je conçois des scripts et ressources <b>Lua</b> pour serveurs GTA RP, du gameplay aux interfaces (NUI).<br>
-  <code>🔥</code> Toujours en train d'apprendre et de tester de nouvelles technos.<br>
-  <code>💬</code> Pour me contacter : <a href="mailto:osheun.contact@proton.me"><code>osheun.contact@proton.me</code></a>
-</p>
-
-###
-
 <h2 align="left">🖥️ Outils</h2>
 
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,cloudflare,idea,github)](https://skillicons.dev)
