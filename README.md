@@ -1,7 +1,5 @@
 <h1 align="left">👋 Salut, moi c'est Osheun</h1>
 
-###
-
 <h2 align="left">🖥️ Outils</h2>
 
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,cloudflare,idea,github)](https://skillicons.dev)
